@@ -1,0 +1,6 @@
+{
+  "name": "모두의 급식",
+  "description": "나이스(NEIS) 오픈 API와 연동하여 전국 초·중·고교의 오늘의 급식, 주간 식단표, 알레르기 유발 정보, 칼로리 및 영양정보를 귀엽고 한눈에 확인하는 학교 급식 도우미입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
